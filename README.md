@@ -1,4 +1,4 @@
-# DUE_tuyen_sinh_scraper
+# University_of_Danang_tuyen_sinh_scraper
 
 This is a scraper that collect data of students who successfully enrolled into The University of Danang in 2021, which comprise of many member universities. Data generally 
 consist of the students' personal details, scores in the National High School Exam (which are used as the requirement for enrollment), their majors/faculties, and their target 
